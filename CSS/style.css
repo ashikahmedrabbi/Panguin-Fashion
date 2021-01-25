@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* .................Navber logo................ */
+
+.navbar-logo img{
+    width:200px;
+}
+/* ............ Header background color........................ */
+.background-color{
+    background-color: #FFF9F4;
+}
+.hero img {
+    width: 100%;
+    
+}
